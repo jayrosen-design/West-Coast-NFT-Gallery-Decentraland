@@ -1,0 +1,1 @@
+# West-Coast-NFT-Gallery-Decentraland
