@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15571565.svg)](https://doi.org/10.5281/zenodo.15571565)
+
 # West Coast NFT Exhibition @ Mirror Vision Gallery (Decentraland SDK)
 
 Welcome to the repository for the **West Coast NFT Exhibition**, as showcased at the **Mirror Vision Gallery** in Decentraland. This project contains the necessary assets and scripts (TypeScript, GLB models) to deploy and experience this exhibition using the Decentraland SDK.
