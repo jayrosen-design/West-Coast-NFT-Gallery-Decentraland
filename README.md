@@ -116,10 +116,4 @@ Contributions are welcome! If you have improvements, bug fixes, or new features 
 
 ---
 
-## License 📄
-
-`[Specify License Here - e.g., MIT, CC BY-NC 4.0, etc. If unsure, you might default to a standard open-source license or state that rights are reserved.]`
-
----
-
 _This README provides a template. Please update bracketed `[]` sections and example file paths with specific details relevant to your repository's contents. You can also customize the image captions as needed._
