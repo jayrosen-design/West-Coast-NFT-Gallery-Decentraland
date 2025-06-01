@@ -25,6 +25,25 @@ This repository aims to preserve and share that metaverse experience.
 
 ---
 
+## Exhibition Snapshots: Opening Reception 📸
+
+Here are some glimpses from the opening reception of the West Coast NFT Exhibition at Mirror Vision Gallery:
+
+![Opening Reception Snapshot 1](https://github.com/jayrosen-design/West-Coast-NFT-Gallery-Decentraland/blob/main/images/Screenshot%202025-06-01%20183128.png?raw=true)
+*Caption: View of the gallery space during the opening.*
+
+![Opening Reception Snapshot 2](https://github.com/jayrosen-design/West-Coast-NFT-Gallery-Decentraland/blob/main/images/Screenshot%202025-06-01%20183308.png?raw=true)
+*Caption: Artworks on display.*
+
+![Opening Reception Snapshot 3](https://github.com/jayrosen-design/West-Coast-NFT-Gallery-Decentraland/blob/main/images/Screenshot%202025-06-01%20183154.png?raw=true)
+*Caption: 3nd floor.*
+
+
+![Opening Reception Snapshot 5](https://github.com/jayrosen-design/West-Coast-NFT-Gallery-Decentraland/blob/main/images/Screenshot%202025-06-01%20183240.png?raw=true)
+*Caption: Map of Decentrland, Mirror Vision Gallery located next to Tokens Tower at 70, 29 in Crypto Valley.*
+
+---
+
 ## Repository Contents 📁
 
 This repository includes the following key components for the Decentraland SDK:
@@ -95,7 +114,12 @@ Contributions are welcome! If you have improvements, bug fixes, or new features 
 * **Open an issue** to discuss your proposed changes or to report bugs.
 * Submit a **pull request** with a clear description of your contributions.
 
+---
+
+## License 📄
+
+`[Specify License Here - e.g., MIT, CC BY-NC 4.0, etc. If unsure, you might default to a standard open-source license or state that rights are reserved.]`
 
 ---
 
-_This README provides a template. Please update bracketed `[]` sections and example file paths with specific details relevant to your repository's contents._
+_This README provides a template. Please update bracketed `[]` sections and example file paths with specific details relevant to your repository's contents. You can also customize the image captions as needed._
